@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  PlaySounds
 //
-//  Created by Michael S. Hearn on 10/27/17.
+//  Created by ByteSlinger on 10/27/17.
 //  Copyright © 2017 ByteSlinger. All rights reserved.
 //
 
