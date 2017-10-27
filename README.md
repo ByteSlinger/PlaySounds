@@ -33,6 +33,11 @@ The only list I've been able to find is here:
 
 I found that that list is incomplete, probably because it was written in 2013, but it does have most of them.
 
+Screenshot
+==========
+On the app, I added a couple of convenience buttons (in Red) with SystemSoundIDs that I randomly selected.  When pressed, they automatically set the TextEdit and Stepper UI items to the SystemSoundID that I use for each one.
+
+![screenshot](https://user-images.githubusercontent.com/2251646/32128636-4d949686-bb34-11e7-8512-82955be348de.PNG)
 
 Kudos
 =====
